@@ -1,6 +1,9 @@
 # Cloud-Computing
 ☁️ Everything I know about Cloud Computing, in a beautiful and practical guide 🧸💻✨
 
+🖼️ ⚡ Designed to be useful for students, self-learners, bootcampers, and engineers alike.
+You’ll go from zero → deploy → job-ready.
+
 # How to use
 | # | Topic | 
 |---|-------------------------------------|
