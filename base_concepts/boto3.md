@@ -28,14 +28,12 @@ Because this is already the **3rd generation version**:
 | boto3 | Upgraded little helper, a dolphin master skilled in all AWS abilities 🐬 |
 
 ## 🔁 Summary in one image to remember:
-+------------------------+
 |       boto3 🐬         |
 |------------------------|
 | AWS Python SDK         |
 | Controls: EC2/S3/IAM   |
 | Flexible like a pink   |
 | dolphin swimming       |
-+------------------------+
 
 # 为什么叫 boto3？
 
@@ -67,10 +65,8 @@ AWS 的 Python SDK，像一只聪明灵活的小海豚，
 | boto3 | 升级版小帮手，精通所有 AWS 技能的海豚大师 🐬 |
 
 ## 🔁 总结一张图记住：
-+------------------------+
 |       boto3 🐬         |
 |------------------------|
 | AWS 的 Python 工具箱    |
 | 能控制：EC2 / S3 / IAM |
 | 像粉色河豚一样灵活优雅  |
-+------------------------+
